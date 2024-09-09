@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(135, 208, 140);
+    text-align: center;
+    border-color: rgb(190, 255, 178);
+    border-style: solid;
+    padding: 5em;
+    margin: 2em;
+    padding-bottom: 0em;
+    padding-top: 0em;
+}
+
+section{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border-color: rgb(190, 255, 178);
+    border-style: solid;
+    margin: 1em;
+}
+
+h1{
+    font-family: fantasy;
+    color: rgb(35, 58, 30);
+}
+
+footer{
+    font-size: small;
+}
